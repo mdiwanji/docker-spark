@@ -196,10 +196,6 @@ OR
     docker exec -it <<Container_Name>> /bin/bash #by Container Name
 
 
-## Problems? Questions? Contributions? [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](http://p7h.org/contact/)
-If you find any issues or would like to discuss further, please ping me on my Twitter handle [@P7h](http://twitter.com/P7h "» @P7h") or drop me an [email](http://p7h.org/contact/ "» Contact me").
-
-
 ## License [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
-Copyright &copy; 2016 Prashanth Babu.<br>
+Copyright &copy; 2018 Mehul Diwanji.<br>
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
